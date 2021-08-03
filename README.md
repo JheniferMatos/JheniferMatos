@@ -8,12 +8,8 @@
 </div>
 
 
-      
-<div>     
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+<div style="display: inline_block"><br>
+ <img align="center" alt="Jhenifer-Py" height="35" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+</div>     
 
-<!-- in your body -->
-<i class="devicon-python-plain"></i>  
-      
- </div>
