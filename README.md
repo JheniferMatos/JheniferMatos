@@ -9,10 +9,11 @@
 
 
       
-      
+<div>     
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 <!-- in your body -->
 <i class="devicon-python-plain"></i>  
       
+ </div>
