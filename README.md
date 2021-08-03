@@ -28,7 +28,8 @@ src="https://i.picasion.com/pic91/66d336197eff1566ed842211ff5fe428.gif">
  <a href="https://api.whatsapp.com/send?phone=5566981339269" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href="mailto:jhenimmp@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/jhenifer-mendonça-0027651b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+ <img src="https://komarev.com/ghpvc/?username=JheniferMatos&color=green" alt="JheniferMatos"/>
+ 
  ![Snake animation](https://github.com/JheniferMatos/JheniferMatos/blob/output/github-contribution-grid-snake.svg)
  
  </div>
