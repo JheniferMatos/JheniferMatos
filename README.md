@@ -18,7 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhenifer-c" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Eu" src="https://picasion.com/i/2Ddn5">
+  <img align="right" alt="Eu" src="https://i.picasion.com/pic91/66d336197eff1566ed842211ff5fe428.gif">
 </div>
  
 ##
